@@ -1,2 +1,2 @@
-# Ours-frontend
-ours新版本前端
+# Ours-web
+ours网页端
